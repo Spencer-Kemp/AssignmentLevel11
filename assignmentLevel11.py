@@ -23,7 +23,7 @@ while valid_row == False:
         print("Use any number inbetween 0 and 14.")
 
 valid_status = False
-# Checks if the the status the user entered is valid
+# Checks if the status the user entered is valid
 while valid_status == False:
     print("\n""Enter a new status: ")
     new_status = input("").capitalize()
